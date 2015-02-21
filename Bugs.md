@@ -7,6 +7,8 @@ Estado actual:
        Cámara
        GPS
        Bluetooth
+       
+-----------------------------------
 
     No funciona:
        Reproducción de vídeo
