@@ -1,4 +1,5 @@
 Estado actual:
+    
     Funciona:
        WiFi
        RIL
