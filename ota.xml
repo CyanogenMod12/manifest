@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>20150221</RomName>
-  <VersionName>20150221</VersionName>
+  <RomName>12-20150221-NIGHTLY-u8951</RomName>
+  <VersionName>12-20150221-NIGHTLY-u8951</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20150221</VersionNumber>
+  <VersionNumber type="integer">12-20150221-NIGHTLY-u8951</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
