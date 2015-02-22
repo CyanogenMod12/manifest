@@ -1,9 +1,9 @@
 <ROM>
 <RomName>
-cm-12-20150222-NIGHTLY-u8951
+<![CDATA[ cm-12-20150222-NIGHTLY-u8951 ]]>
 </RomName>
 <VersionName>
-cm-12-20150222-NIGHTLY-u8951
+<![CDATA[ cm-12-20150222-NIGHTLY-u8951 ]]>
 </VersionName>
 <VersionNumber type="integer">20150224</VersionNumber>
 <DirectUrl>
@@ -11,25 +11,27 @@ http://cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip
 </DirectUrl>
 <HttpUrl nil="true"/>
 <Android>
-5.0.2
+<![CDATA[ 5.0.2 ]]>
 </Android>
 <CheckMD5></CheckMD5>
 <FileSize type="integer">559117916</FileSize>
 <Developer>
-David_Vaz
+<![CDATA[ David_Vaz ]]>
 </Developer>
 <WebsiteURL>
+<![CDATA[
 http://www.davidvazguijarro.es/
+]]>
 </WebsiteURL>
 <DonateURL>
+<![CDATA[
 http://goo.gl/lkMvRB
+]]>
 </DonateURL>
 <Changelog>
-### Changelog 20150222
- * Nuevo kernel
- * KSM integrado
- * Removido SWAP
- * Corregida SD
- * Removida Radio FM
+<![CDATA[
+### Changelog 20150224
+ * TEST OTA
+]]>
 </Changelog>
 </ROM>
