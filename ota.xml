@@ -14,7 +14,7 @@ http://cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip
 <![CDATA[ 5.0.2 ]]>
 </Android>
 <CheckMD5></CheckMD5>
-<FileSize type="integer">221617916</FileSize>
+<FileSize type="integer">272629760</FileSize>
 <Developer>
 <![CDATA[ David_Vaz ]]>
 </Developer>
@@ -31,7 +31,7 @@ http://goo.gl/lkMvRB
 <Changelog>
 <![CDATA[
 ### Changelog 20150224
- * TEST OTA
+ * TEST OTA NEW
 ]]>
 </Changelog>
 </ROM>
