@@ -8,11 +8,13 @@
   <!-- Previous version will be read from the build.prop -->
   <VersionNumber type="integer">20150224</VersionNumber>
   <!-- Linking to your files -->
-    <DirectUrl><![CDATA[http://www.cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip?somethingelse&anotherthing]]></DirectUrl>
-    <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
-    <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
-    <!-- HTTP link will open a web page -->
-    <!-- Direct Link overrides HTTP link -->
+  <DirectUrl><![CDATA[http://www.cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip]]></DirectUrl>
+  <HttpUrl nil="true />
+  <DirectUrl nil="true />
+  <!-- Use the above format if your URL has special characters in then, like an (&) ampersand
+       Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL
+       HTTP link will open a web page
+       Direct Link overrides HTTP link -->
   <DirectUrl>cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip</DirectUrl>
   <HttpUrl>cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip</HttpUrl>
   <!-- What version are you issuing? -->
