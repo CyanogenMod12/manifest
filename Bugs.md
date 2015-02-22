@@ -1,15 +1,15 @@
 #Estado actual:#
     
-__Funciona:__
-     WiFi
-     RIL
-     Audio
-     Cámara
-     GPS
-     Bluetooth
+    Funciona:
+       WiFi
+       RIL
+       Audio
+       Cámara
+       GPS
+       Bluetooth
        
 -----------------------------------
 
-__No funciona:__
+    No funciona:
        Reproducción de vídeo
        Grabación de vídeo
