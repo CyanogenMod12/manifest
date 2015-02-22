@@ -4,7 +4,7 @@
 
   - Versión inicial
 
-_20150222 (22-02-2015)_
+__20150222 (22-02-2015)__
 
   - Nuevo kernel
   - KSM integrado
