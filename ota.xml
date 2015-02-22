@@ -14,13 +14,13 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl>http://cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip</DirectUrl>
-  <HttpUrl>http://cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip</HttpUrl>
+  <!--<HttpUrl>http://cmota.esy.es/cm-12-20150222-NIGHTLY-u8951.zip</HttpUrl>-->
   <!-- What version are you issuing? -->
   <Android>5.0.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking 
-  <CheckMD5>MD5 AQUI SI QUIERO</CheckMD5>-->
-  <CheckMD5 nil="false" />
+  <CheckMD5>MD5 AQUI SI QUIERO</CheckMD5>
+  <CheckMD5 nil="false" />-->
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
   <FileSize type="integer">420147739</FileSize>
@@ -35,5 +35,12 @@
   <DonateURL>http://goo.gl/lkMvRB</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog ###</Changelog>
+  <Changelog>### Changelog ###
+    (22-02-2015) ACTUAL
+    Nuevo kernel
+    KSM integrado
+    Removido SWAP
+    Corregida SD
+    Removida Radio FM
+  </Changelog>
 </ROM>
