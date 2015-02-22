@@ -8,6 +8,8 @@ __(22-02-2015)__ _ACTUAL_
   - Corregida SD
   - Removida Radio FM
 
+------------------------------
+
 (21-02-2015)
 
   - Versión inicial
