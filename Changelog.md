@@ -1,10 +1,10 @@
 ### CHANGELOG ###
 
-**20150221 (21-02-2015)
+_20150221 (21-02-2015)
 
   - Versión inicial
 
-**20150222 (22-02-2015) #ACTUAL
+_20150222 (22-02-2015) [b]ACTUAL[/B]
 
   - Nuevo kernel
   - KSM integrado
