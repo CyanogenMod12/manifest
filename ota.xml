@@ -37,5 +37,10 @@
   <DonateURL>http://goo.gl/lkMvRB</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>Nuevo kernel, KSM integrado, Removido SWAP, Corregida SD, Removida Radio FM</Changelog>
+  <Changelog>Nuevo kernel
+             KSM integrado
+             Removido SWAP
+             Corregida SD
+             Removida Radio FM
+  </Changelog>
 </ROM>
