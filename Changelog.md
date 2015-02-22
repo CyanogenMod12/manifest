@@ -1,13 +1,13 @@
 ### CHANGELOG ###
 
-*20150221
+    20150221
 
-- Versión inicial
+    - Versión inicial
 
-*20150222
+    *20150222
 
-- Nuevo kernel
-- KSM integrado
-- Removido SWAP
-- Corregida SD
-- Removida Radio FM
+    - Nuevo kernel
+    - KSM integrado
+    - Removido SWAP
+    - Corregida SD
+    - Removida Radio FM
