@@ -1,4 +1,4 @@
-### CHANGELOG ###
+# CHANGELOG #
 
 __(22-02-2015)__ _ACTUAL_
 
