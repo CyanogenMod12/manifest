@@ -2,7 +2,7 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>12-20150222-NIGHTLY-u8951</RomName>
-  <VersionName>12-20150222-NIGHTLY-u8951</VersionName>
+  <VersionName>2015022</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
