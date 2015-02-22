@@ -1,6 +1,6 @@
-Estado actual:
+#Estado actual:#
     
-    Funciona:
+    __Funciona:__
        WiFi
        RIL
        Audio
@@ -10,6 +10,6 @@ Estado actual:
        
 -----------------------------------
 
-    No funciona:
+    __No funciona:__
        Reproducción de vídeo
        Grabación de vídeo
