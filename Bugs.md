@@ -11,5 +11,5 @@ __Funciona:__
 -----------------------------------
 
 __No funciona:__
-     Reproducción de vídeo
-     Grabación de vídeo
+       Reproducción de vídeo
+       Grabación de vídeo
